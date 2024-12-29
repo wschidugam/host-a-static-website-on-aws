@@ -1,3 +1,5 @@
+![Alt text] (/VPC.png)
+
 # Host a Static Website on AWS
 
 This project demonstrates how to host a static HTML web app on AWS using a robust and scalable infrastructure. The repository includes a reference architecture diagram and deployment scripts for setting up the web application on an EC2 instance.
