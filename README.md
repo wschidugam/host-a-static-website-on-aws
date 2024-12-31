@@ -1,4 +1,4 @@
-![Alt text](/VPC.pn) 
+![Alt text](/VPC.png) 
 
 # Host a Static Website on AWS
 
